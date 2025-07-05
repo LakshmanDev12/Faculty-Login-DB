@@ -1,1 +1,1 @@
-# Faculty-Login-DB
+Faculty-Login-DB is a basic database file designed to store text and PDF files along with their corresponding names. This allows faculty members to easily upload text and PDF documents. The data is stored in the database using an SQL file with a .sql extension.
